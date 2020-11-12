@@ -19,3 +19,15 @@
     <img src="Resources/social/email_me.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
   </a>  
 </p>
+
+## Things I use
+<p align="left">
+  <img src="Resources/dev/languages/csharp_dotnet.svg" alt="C# / .NET" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
+  <img src="Resources/dev/tools/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
+</p>
