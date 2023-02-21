@@ -33,5 +33,5 @@
 </p>
 
 <p align="right">
-  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=zHaytam&countColorcountColor&countColor=%237B1E7A">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=zHaytam&countColor=%237B1E7A">
 </p>
